@@ -3,9 +3,9 @@
 
 The co [yieldable](https://github.com/tj/co/#yieldables) objects currently supported are:
 
-- promises
-- thunks (functions)
-- array (parallel execution)
+* [x]promises
+* [x]thunks (functions)
+* [x]array (parallel execution)
 - objects (parallel execution)
 - generators (delegation)
 - generator functions (delegation)
