@@ -1,0 +1,25 @@
+{
+  "name": "yieldable-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/ava -v test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/i5ting/yieldable.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/i5ting/yieldable/issues"
+  },
+  "homepage": "https://github.com/i5ting/yieldable#readme",
+  "dependencies": {
+    "co": "^4.6.0"
+  },
+  "devDependencies": {
+    "ava": "^0.15.0"
+  }
+}
